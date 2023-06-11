@@ -1,0 +1,2 @@
+This folder contains processed and filtered movies used in acquiring data in Figure 3E. 
+The Jupyter Notebook contains functions used to compute the curvature in each frame, as well as to quantitatively estimate the separation between defect cores.
