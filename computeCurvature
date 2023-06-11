@@ -1,0 +1,2 @@
+This file contains raw temperature data, processed and filtered movies used in the creation of Figure 3E. 
+The Jupyter Notebook includes function used to compute the curvature at each frame, as well as the separation between defect cores.
